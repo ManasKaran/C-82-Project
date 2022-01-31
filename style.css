@@ -1,0 +1,26 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+color:red;
+}
+
+input{
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+#clear_Canvas{
+    font-size: 16px;
+    background-color: green;
+    color: white;
+}
+
+#myCanvas{
+    border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+}
